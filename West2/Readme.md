@@ -37,7 +37,10 @@
 <br>
 
  <p>（2）如果这个城市不存在天气于数据库中，则能在控制台看到以下返回</p>
+<<<<<<< HEAD
  
+=======
+>>>>>>> 345f571 (.)
  ![城市不存在](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/NoData.png)
 
 <br>
@@ -64,6 +67,7 @@
 
 ![OldData](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/OldData.png)
  <p>在1.18日测试的数据</p>
+<<<<<<< HEAD
  
 ![NewData1](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/NewData1.png)
 
@@ -71,5 +75,11 @@
 
  <p>在获取旧数据后进行天气更新，再获取新数据</p>
  
+=======
+![NewData1](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/NewData1.png)
+![NewData2](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/NewData2.png)
+
+ <p>在获取旧数据后进行天气更新，再获取新数据</p>
+>>>>>>> 345f571 (.)
 ![更新前后](https://github.com/Anthony-L01/Picture1/raw/cedfe9cdc79c04682f11577e0674d7897c636372/Weather/UpdateWeather.png)
 
